@@ -7,7 +7,6 @@ function Login(){
         <>
             <KotakTeks/>
             <Tombol/>
-        
         </>
     )
 }
