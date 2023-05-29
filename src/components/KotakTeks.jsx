@@ -1,12 +1,12 @@
 
 
-const myInput =()=> {
+function KotakTeks(){
     return (
             <>
-            <input>
-                
-            </input>
-            </>
-        
+            <input type="text" placeholder="Email"/>
+            <input type="password" placeholder="Password"/>
+            </> 
     )
 }
+
+export default KotakTeks
